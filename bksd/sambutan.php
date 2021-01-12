@@ -26,7 +26,8 @@ include_once('includes/header.php');
                                             </div>
                                             <div class="meta">
                                                 <span> <i class="fa fa-calendar"> </i> 21-01-2021</span> <br>
-                                                <span><i class="fa fa-user"> </i> bksd.mubakab.go.id</span>
+                    
+                                      <span><i class="fa fa-user"> </i> bksd.mubakab.go.id</span>
                                             </div>
                                             <hr>
                                             <p> 

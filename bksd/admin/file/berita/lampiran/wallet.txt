@@ -1,0 +1,15 @@
+Wallet indodax
+BTC : 19U7VLPVMSEebJvfGCvphbmJQ7YkekDCWh
+Eth : 0x72c40ae32a9f9fb0ed170192ecedc0c4ef4ace7f
+Ltc : MV6dFZ9JrTbLnZ3yoxwJiByJiv1VKkM86y
+Doge : DEfR2z7CYxzAuP44Jmar3dCRCz65s9sb2T
+monero : 87J2mmwq2ePRggLh9UaCw7QTaPmxjBmLQ9BUwCZmzVPx8T5b3JPeb1A1eViveR1ZcNeU5oGGnbcZtSmkSMvFkTSdP275rGR
+
+Wallet blockchain 
+BTC : 1GRkVeQAvCwbT2EMh8NmSdEKP28TNdcKM8
+Eth : 0xB83a884d60e6c8b146f68E7a19e926581C702d98
+
+Wallet Coinbase
+BTC : 3LARMohsnbiB649UkBGsBNucpsygqjt1zn
+ETH : 0xe53B0aDad3e59823b6c8155c97ee731580B13fFd
+LTC : MQ1oyanmGHhKVwsH16D8i4KKHks6dGHqPP
